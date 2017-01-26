@@ -21,10 +21,17 @@ If a claim is supported by multiple citations, then add a row for each cited_art
 345X123, 445B333, "Earth is roughly a sphere"
 345X123, 2243S52, "Earth is roughly a sphere"
 
-2. Use output from 1 to create n by n article similarity matrices as follows (similar to cites/cited by matrices) where value  = number of times articles are jointly cited as making the same claim (we lose information about what claim. And a pair of articles can be jointly cited for multiple claims. So we ignore that for now also.) 
+But same pair of articles can be cited jointly for multiple claims. So later on article ID '345X123' may also have "Sun is hot (article_ID_445B333, article_ID_2243S52, article_ID_5D43S53)." And we will expand it as:
+
+345X123, 445B333, "Sun is hot"
+345X123, 2243S52, "Sun is hot"
+345X123, 5D43S53, "Sun is hot"
+
+2. Use output from 1 to create n by n article similarity matrix (similar to cites/cited by matrices) where value of each entry = number of times articles are jointly cited as making the same claim (we lose information about what claim --- overlap on 'earth is roughly a sphere' and 'sun is hot' is counted together.) 
 
             article_1, article_2, ...., article_n
 
 article_1,  1,           2,        0, .... 
 article_2,  2,           1,        1, ....
 
+This will be a very sparse matrix. But even small overlaps are likely to be very informative.
