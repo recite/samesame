@@ -1,0 +1,148 @@
+[
+  {
+    "id": "assignment",
+    "page": 13,
+    "passage": "While the allocation of caste-based reservations is often based on population shares of these disadvantaged castes, female reservation is effectively random (Chattopadhyay and Duflo, 2004; Pathak and Macours, 2017).",
+    "references": [
+      "cd2004",
+      "pm2017"
+    ],
+    "claims": [
+      {
+        "id": "random-design",
+        "scope": "female reservation is effectively random",
+        "reading": "Narrower analytic reading. Both papers use rule-based assignment as a research design in the settings they study. Each invokes conditions under which the rule may be treated as random."
+      },
+      {
+        "id": "random-in-brown",
+        "scope": "female reservation is effectively random",
+        "reading": "Broader reading in context. Does the cited evidence establish as-if-random assignment across the districts and villages in Brown et al.’s sample? Brown et al. give their own balance check in the next sentence; this judgment concerns what the two references establish."
+      }
+    ],
+    "citer": "bms2025",
+    "matches": {
+      "cd2004": "p13-char1105",
+      "pm2017": "p13-char1136"
+    }
+  },
+  {
+    "id": "jobs",
+    "page": 6,
+    "passage": "Female leaders in village Panchayats also improve the quality and effectiveness of rural development programs, including the National Rural Employment Guarantee Scheme (NREGS) (Beaman et al., 2012; Deininger et al., 2015), and are better at providing local jobs under the NREGS as an insurance against negative shocks (Bose and Das, 2018; Deininger et al., 2020).",
+    "references": [
+      "bd2018",
+      "dns2020"
+    ],
+    "claims": [
+      {
+        "id": "jobs-received",
+        "scope": "are better at providing local jobs under the NREGS",
+        "reading": "Narrower analytic reading. Does research find more program employment received under reserved leadership? Actual work received can rise through demand, supply, or both. It does not identify a leader’s job allocation decisions by itself."
+      },
+      {
+        "id": "jobs-insurance",
+        "scope": "are better at providing local jobs under the NREGS as an insurance against negative shocks",
+        "reading": "Full clause, read as a claim of better protection during shocks. Evidence would compare the response to an adverse shock across leadership conditions. If the last words only describe the purpose of NREGS, the narrower reading applies."
+      }
+    ],
+    "citer": "bms2025",
+    "matches": {
+      "bd2018": "p6-char747",
+      "dns2020": "p6-char767"
+    }
+  },
+  {
+    "id": "priorities",
+    "page": 22,
+    "passage": "Our results on the effects of local female leadership are consistent with earlier findings that female politicians are more likely to focus on issues directly affecting women and girls, including health, education, and access to infrastructure (Chattopadhyay and Duflo, 2004; Beaman et al., 2012).",
+    "references": [
+      "cd2004",
+      "bdpt2012"
+    ],
+    "claims": [
+      {
+        "id": "policy-focus",
+        "scope": "more likely to focus on issues directly affecting women and girls, including health, education, and access to infrastructure",
+        "reading": "Does focus mean policy priorities, direct investments, or improved outcomes for girls? The sentence also leaves open which example belongs to which source. If these are complementary illustrations, each paper could contribute something different."
+      }
+    ],
+    "citer": "bms2025",
+    "matches": {
+      "cd2004": "p22-char2268",
+      "bdpt2012": "p22-char2299"
+    }
+  },
+  {
+    "id": "chair-identity",
+    "citer": "das2015",
+    "page": 6,
+    "passage": "The literature on public good provision is concerned with how it is affected by population characteristics of jurisdictions (Banerjee, Iyer, and Somanathan (2005)), extent of democratization (Foster and Rosenzweig (2004)), and electoral outcomes (e.g., the group identity of the village-chair (Chattopadhyay and Duflo (2004); Gajwani and Zhang (2014)), her party affiliation (Dunning and Nilekani (2013)), geographic location (Besley, Pande and Rao (2012)) etc).",
+    "references": [
+      "cd2004",
+      "gz2014"
+    ],
+    "claims": [
+      {
+        "id": "chair-gender",
+        "scope": "the group identity of the village-chair",
+        "reading": "These two studies investigate how the gender of the council head relates to local public goods. The surrounding references concern different subjects. Das does not claim the estimated effects have the same sign."
+      }
+    ],
+    "matches": {
+      "cd2004": "p6-char2449"
+    }
+  },
+  {
+    "id": "reservation-background",
+    "citer": "cv2021",
+    "page": 2,
+    "passage": "For more details about these well studied policies, we refer the reader to the literature (among others, Chattopadhyay & Duflo, 2004; Besley et al., 2004; Bardhan et al., 2010).",
+    "references": [
+      "cd2004",
+      "bprr2004",
+      "bmp2010"
+    ],
+    "claims": [
+      {
+        "id": "rules-background",
+        "scope": "more details about these well studied policies",
+        "reading": "The preceding text describes reserving village council seats and presidencies for women and disadvantaged castes. As a pointer to institutional details, each source can cover a different part of that description."
+      }
+    ],
+    "matches": {
+      "cd2004": "p2-char7401"
+    }
+  },
+  {
+    "id": "water-infrastructure",
+    "citer": "bdpt2012",
+    "page": 5,
+    "passage": "For India, previous research has found that women leaders invest in public goods that are more in line with female preferences, in particular water infrastructure (27, 33).",
+    "references": [
+      "cd2004",
+      "bdpt2011"
+    ],
+    "claims": [
+      {
+        "id": "water-investment",
+        "scope": "in particular water infrastructure",
+        "reading": "For drinking water specifically, do the cited studies find more infrastructure in councils reserved for women? This reading isolates the concrete example and leaves the general claim about all female preferences open."
+      }
+    ],
+    "matches": {},
+    "reviewed_matches": {
+      "cd2004": "body-refs-27-33"
+    },
+    "marker": "(27, 33)",
+    "bibliography": {
+      "cd2004": {
+        "page": 7,
+        "excerpt": "27. Chattophadhyay R, Duflo E. Women as policy makers: evidence from a randomized policy experiment in India."
+      },
+      "bdpt2011": {
+        "page": 8,
+        "excerpt": "33. Beaman L, Duflo E, Pande R, Topalova P. Political reservation and substantive representation: evidence from Indian village councils."
+      }
+    }
+  }
+]

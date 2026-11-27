@@ -1,0 +1,138 @@
+[
+  {
+    "claim": "random-design",
+    "source": "cd2004",
+    "status": "supports",
+    "page": 6,
+    "evidence": "we could verify that the policy was strictly implemented",
+    "reason": "The authors reconstructed a serial-number rotation in their West Bengal district. Footnote 7 says they lacked the information to run the same check in Rajasthan."
+  },
+  {
+    "claim": "random-design",
+    "source": "pm2017",
+    "status": "supports",
+    "page": 7,
+    "evidence": "conditional on these slight differences, assignment is random",
+    "reason": "Seats in Andhra Pradesh were rotated down a list ranked by population ratio. PDF p. 9 reports average female population shares of 0.501 versus 0.493 in the 1995 and 2006 groups, significantly different at 1%. The design argument is conditional."
+  },
+  {
+    "claim": "jobs-received",
+    "source": "bd2018",
+    "status": "insufficient",
+    "page": 1,
+    "evidence": "we find no difference between male and female leaders in generating employment",
+    "reason": "Demand rose, but the authors report no difference in employment generation. A null result supplies no affirmative evidence of an increase; it cannot establish an exactly zero effect."
+  },
+  {
+    "claim": "jobs-received",
+    "source": "dns2020",
+    "status": "supports",
+    "page": 8,
+    "evidence": "increased the number of days worked by households holding job cards",
+    "reason": "Table 3 measures realized program days in eligible households. This supports the narrower reading about work received. The authors also document increased demand and awareness."
+  },
+  {
+    "claim": "jobs-insurance",
+    "source": "bd2018",
+    "status": "insufficient",
+    "page": 1,
+    "evidence": "generating employment or efficiently implementing public works under NREGA",
+    "reason": "The comparison is program performance by leader gender. It does not estimate whether employment cushions adverse shocks more effectively under female leaders."
+  },
+  {
+    "claim": "jobs-insurance",
+    "source": "dns2020",
+    "status": "insufficient",
+    "page": 8,
+    "evidence": "a reservation-induced and persistent shift in the number of NREGS days women worked",
+    "reason": "An average change in employment can coexist with a larger, smaller, or unchanged response to shocks. The paper discusses the program’s insurance purpose but the leadership comparison here does not test that response."
+  },
+  {
+    "claim": "policy-focus",
+    "source": "cd2004",
+    "status": "ambiguous",
+    "page": 1,
+    "evidence": "leaders invest more in infrastructure that is directly relevant to the needs of their own genders",
+    "reason": "The paper supplies direct evidence on infrastructure priorities. The wording leaves open whether that one example fulfills this source’s assigned role or whether the source is asked to support the whole list."
+  },
+  {
+    "claim": "policy-focus",
+    "source": "bdpt2012",
+    "status": "ambiguous",
+    "page": 6,
+    "evidence": "their presence as positive role models for the younger generation that seems to underlie observed changes in aspirations and educational outcomes",
+    "reason": "Girls’ educational outcomes improved. The authors emphasize role modeling as an explanation. An effect of exposure to a leader does not establish that the leader focused policy on education."
+  },
+  {
+    "claim": "random-in-brown",
+    "source": "cd2004",
+    "status": "insufficient",
+    "page": 6,
+    "evidence": "We could not obtain the necessary information to perform the same exercise in Rajasthan.",
+    "reason": "Checking the assignment roster in one West Bengal district does not verify assignment throughout Brown et al.’s separate sample."
+  },
+  {
+    "claim": "random-in-brown",
+    "source": "pm2017",
+    "status": "insufficient",
+    "page": 9,
+    "evidence": "(0.501 compared to 0.493)",
+    "reason": "The authors document a population-ratio difference in Andhra Pradesh and condition their design argument on this feature. Their data do not validate Brown et al.’s sample."
+  },
+  {
+    "claim": "chair-gender",
+    "source": "cd2004",
+    "status": "supports",
+    "page": 1,
+    "evidence": "the reservation of a council seat affects the types of public goods provided",
+    "reason": "The article compares public investment in councils with and without leadership reservations. It documents differing responses across goods and states."
+  },
+  {
+    "claim": "chair-gender",
+    "source": "gz2014",
+    "status": "supports",
+    "page": 1,
+    "evidence": "whether the gender of village government leaders influences the provision of village public goods",
+    "reason": "In Tamil Nadu the authors report fewer schools and roads built under women leaders. Das identifies the WBER article; it appeared online in 2014 and in the 2015 issue. A separate 2014 working paper has the same title."
+  },
+  {
+    "claim": "rules-background",
+    "source": "cd2004",
+    "status": "supports",
+    "page": 6,
+    "evidence": "every third GP starting with the first on the list is reserved for a woman Pradhan",
+    "reason": "The article explains the West Bengal allocation of council headships reserved for women."
+  },
+  {
+    "claim": "rules-background",
+    "source": "bprr2004",
+    "status": "supports",
+    "page": 4,
+    "evidence": "The choice of which GPs to reserve was left to individual states.",
+    "reason": "This source explains the rules for reserving headships for Scheduled Castes and Scheduled Tribes. The local author manuscript has different pagination from the published text. The same rule appears on printed p. 418 of the publisher version."
+  },
+  {
+    "claim": "rules-background",
+    "source": "bmp2010",
+    "status": "supports",
+    "page": 8,
+    "evidence": "Pradhan offices reserved for SC/ST are required to be proportionate to their demographic share",
+    "reason": "The corrected article explains the caste and gender reservations and West Bengal’s implementation. These three references supply complementary institutional details."
+  },
+  {
+    "claim": "water-investment",
+    "source": "cd2004",
+    "status": "supports",
+    "page": 23,
+    "evidence": "In both places, there are significantly more investments in drinking water in GPs reserved for women.",
+    "reason": "In the West Bengal and Rajasthan districts studied, women also complained about water more often than men. Table V on PDF p. 24 reports counts of newly built or repaired water facilities."
+  },
+  {
+    "claim": "water-investment",
+    "source": "bdpt2011",
+    "status": "supports",
+    "page": 18,
+    "evidence": "significantly more public drinking water taps and hand pumps when the GP is reserved for a woman",
+    "reason": "The Millennial survey comparison adds evidence from multiple states (PDF pp. 6–7, 17–18). The paper also analyzes a 2005 survey in Birbhum (pp. 7, 21), a district studied in the 2004 paper. The two citations agree on water infrastructure and share an author and some geography."
+  }
+]

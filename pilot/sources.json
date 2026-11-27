@@ -1,0 +1,82 @@
+{
+  "bms2025": {
+    "label": "Brown, Mitra & Singh (2025 working paper)",
+    "file": "brown_mitra_singh_2025_wp.pdf",
+    "sha256": "fb6c24918577be001cb2fc45144355f3873ef5bdbee9e125284b62c0473680ff",
+    "url": "https://www.isid.ac.in/~acegd/acegd2025/papers/AruniMitra.pdf"
+  },
+  "cd2004": {
+    "label": "Chattopadhyay & Duflo (2004, Econometrica)",
+    "file": "chattopadhyay_duflo_2004_ecta.pdf",
+    "sha256": "b45ae5428ecfd004d3ef0a9da8f5631402f982f17055f65f6fbcedc2aa35ba9e",
+    "url": "https://doi.org/10.1111/j.1468-0262.2004.00539.x",
+    "id": "doi:10.1111/j.1468-0262.2004.00539.x"
+  },
+  "pm2017": {
+    "label": "Pathak & Macours (2017, Economic Development and Cultural Change)",
+    "file": "pathak_macours_2017_edcc.pdf",
+    "sha256": "729b2c041fe279b34404f3a500e4ed7965781e1229cf5e1a41c03dbdbb7d7bae",
+    "url": "https://doi.org/10.1086/692114",
+    "id": "doi:10.1086/692114"
+  },
+  "bd2018": {
+    "label": "Bose & Das (2018, Review of Development Economics)",
+    "file": "bose_das_2018_rde.pdf",
+    "sha256": "edff6a779e9e920a0e9ef35defa42b361df11d0a8babc6250432172a775ebd1d",
+    "url": "https://doi.org/10.1111/rode.12336",
+    "id": "doi:10.1111/rode.12336"
+  },
+  "dns2020": {
+    "label": "Deininger, Nagarajan & Singh (2020, Journal of Comparative Economics)",
+    "file": "deininger_nagarajan_singh_2020_jce.pdf",
+    "sha256": "775283f0cac944b95164c47f3a7734478099fe615de66b3284e430e569c49cfa",
+    "url": "https://doi.org/10.1016/j.jce.2019.12.003",
+    "id": "doi:10.1016/j.jce.2019.12.003"
+  },
+  "bdpt2012": {
+    "label": "Beaman et al. (2012, Science, PMC manuscript)",
+    "file": "beaman_duflo_pande_topalova_2012_science_pmc.pdf",
+    "sha256": "e01765d96583eb34a8645e3ad2518c25366be4f58fc638e63a1a860fa4c77970",
+    "url": "https://doi.org/10.1126/science.1212382",
+    "id": "doi:10.1126/science.1212382"
+  },
+  "das2015": {
+    "label": "Das (2015 working paper)",
+    "file": "das_2015_wp.pdf",
+    "sha256": "0b18f5e4210f1e7e424eb607c209a783fc6e4c2fb9485837146036776e962f7c",
+    "url": "https://sabyasachidas.in/wp-content/uploads/2014/05/meeting_aer2.pdf"
+  },
+  "gz2014": {
+    "label": "Gajwani & Zhang (2014 online, 2015 WBER issue)",
+    "file": "gajwani_zhang_2015_wber.pdf",
+    "sha256": "b8a47777acda5fa63cba3190e381c700d897748dfa559fb5b78539db0a93393c",
+    "url": "https://doi.org/10.1093/wber/lhu001",
+    "id": "doi:10.1093/wber/lhu001"
+  },
+  "cv2021": {
+    "label": "Cassan & Vandewalle (2021, World Development)",
+    "file": "cassan_vandewalle_2021_wd.pdf",
+    "sha256": "89f4daa5afaaef0c5b06108cf780353c41ddcd3e2f87bf891907ca2842edef15",
+    "url": "https://doi.org/10.1016/j.worlddev.2021.105408",
+    "id": "doi:10.1016/j.worlddev.2021.105408"
+  },
+  "bprr2004": {
+    "label": "Besley, Pande, Rahman & Rao (2004, author manuscript)",
+    "file": "besley_pande_rahman_rao_2004_jeea.pdf",
+    "sha256": "ed3814b9d6c48f2982d40b17d1934649c94085463a97402cd74a91edaa9769d6",
+    "url": "https://vijayendrarao.org/papers/PoliticsPublicGood.pdf"
+  },
+  "bmp2010": {
+    "label": "Bardhan, Mookherjee & Parra Torrado (2010, corrected JGD article)",
+    "file": "bardhan_mookherjee_parra_2010_jgd.pdf",
+    "sha256": "24a8cdd52ed1678e2881d901d7fa63367c32b50b72b1c59f6fb535be2d75cedc",
+    "url": "https://doi.org/10.2202/1948-1837.1025",
+    "id": "doi:10.2202/1948-1837.1025"
+  },
+  "bdpt2011": {
+    "label": "Beaman et al. (2010–11, India Policy Forum)",
+    "file": "beaman_duflo_pande_topalova_2011_ipf.pdf",
+    "sha256": "a67175445cb4495383d0395c4e900c234414f4cb13ecc40a62028708d76c70d5",
+    "url": "https://ncaer.org/wp-content/uploads/2022/09/4_Lori-Beaman_Esther-Duflo_Rohini-Pande_Petia-Topalova.pdf"
+  }
+}
