@@ -1,14 +1,16 @@
 ## Same Same 
 
+[Open the grouped-citation pilot](pilot/review.html) or [reproduce it](pilot/README.md). The quota-spending example follows six citation groups across four papers, including a numbered pair that Beaman et al. cite for drinking-water investment. The [Anekanta collection export](https://github.com/recite/anekanta/blob/6cb5030da65b30c4f8db8fcc133195121b9d6c77/testout/quota-spending.jsonl) locates the author–year passages. A [source-checked example](https://github.com/recite/anekanta/blob/6cb5030da65b30c4f8db8fcc133195121b9d6c77/schema/examples/beaman-water.json) resolves the numbered group. Same Same records what each source contributes to the claim and summarizes those judgments across the four citing papers.
+
 Sometimes a claim is supported by multiple citations. One general form of this kind of a cited claim is: "Here is a claim (article_1, article_2, article_n)." 
 
-Multiple citations for the same claim mean that the cited research is making the same point. 
+The shared citation invites the reader to take each paper as support for the claim. Checking each paper reveals whether it supports that reading, contributes to a different part of the claim, or supplies too little evidence to decide.
 
 This insight can be used to:
 
 * Build similarity matrices between the cited articles 
 * Test whether the articles cited together are actually saying the same thing.
-* Use 'autosum' for one cited article to learn about the other cited article (see the first point)
+* Use Anekanta’s citing passages to identify which claims link the two papers
 
 ### Final Outputs:
 
